@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "878888234988",
+    "firebase_url": "https://slim-c3124.firebaseio.com",
+    "project_id": "slim-c3124",
+    "storage_bucket": "slim-c3124.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878888234988:android:c17ed04a33ff356e615ac9",
+        "android_client_info": {
+          "package_name": "com.example.coffe.slim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878888234988-2421oqqvrj4cqvh8eso777tg62dlljfv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.coffe.slim",
+            "certificate_hash": "d013ef1bf8fd538daea2064d7d74f9815743ca6f"
+          }
+        },
+        {
+          "client_id": "878888234988-fbb09nc9tiviepai9krf5kcr2h50vmb5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.coffe.slim",
+            "certificate_hash": "2a1e9af3c4940efe4efc32530d36b40b29d2256f"
+          }
+        },
+        {
+          "client_id": "878888234988-6vg82fv6a4fplo9f452aodbjhkbopplm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB54R6uxe0PMO_L2d0eEaCVUb9QnzuNvyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878888234988-6vg82fv6a4fplo9f452aodbjhkbopplm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
